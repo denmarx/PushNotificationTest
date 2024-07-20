@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52091857698",
+    "project_id": "expopushnotificationtest-aabf1",
+    "storage_bucket": "expopushnotificationtest-aabf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52091857698:android:720ff659520427b9be937b",
+        "android_client_info": {
+          "package_name": "com.denmarx.PushNotifications2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBkGw9bOhdyDHpZPzVuirDy-tq-SZGOnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
